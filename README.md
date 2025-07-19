@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nancy Khalid Ali</h1>
+<h1 align="center">Hi 👋, I'm Nancy Khalid</h1>
 <h3 align="center">Front-End Developer | CS Student | Tech Enthusiast</h3>
 
 <p align="center">
