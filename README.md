@@ -13,8 +13,8 @@
 ### 🛠️ Tech Stack
 
 ```html
-💡 Languages:        HTML, CSS, JavaScript, C++, Java, Kotlin, Dart, C#
+💡 Languages:        HTML, CSS, JavaScript, C++, Java,C#
 ⚛️ Frameworks/Tools: React.js, Bootstrap, Windows Forms (.NET), Git
-🧠 Other:            APIs, JSON, Local Storage, Stripe Integration
+🧠 Other:            APIs, JSON, Local Storage
 
 
