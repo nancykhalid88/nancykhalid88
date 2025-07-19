@@ -1,10 +1,20 @@
-Hi there,I'm Nancy 👋
-🎓 Third-year Computer Science student at Ahram Canadian University  
-💻 Front-end developer passionate about building responsive and user-friendly web apps  
-🛠️ Tech Stack: HTML, CSS, JavaScript, React, Bootstrap  
-🏆 Intern of the Month @ Uneeq Interns  
-📌 Working on: Real-world projects like e-commerce, CRUD apps, and movie discovery sites  
-📫 Reach me: nancykhalid011@gmail.com | LinkedIn: (https://www.linkedin.com/in/nancy-khalid-ali)
-![Nancy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nancykhalid88&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancykhalid88&layout=compact)
+<h1 align="center">Hi 👋, I'm Nancy Khalid Ali</h1>
+<h3 align="center">Front-End Developer | CS Student | Tech Enthusiast</h3>
+
+<p align="center">
+  🎓 3rd Year Computer Science Student at Ahram Canadian University<br>
+  💻 Passionate about crafting responsive and engaging web applications<br>
+  🏆 Intern of the Month @ Uneeq Interns (June 2025)<br>
+  🌱 Currently improving my skills in React, APIs & UI/UX<br>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+```html
+💡 Languages:        HTML, CSS, JavaScript, C++, Java, Kotlin, Dart, C#
+⚛️ Frameworks/Tools: React.js, Bootstrap, Windows Forms (.NET), Git
+🧠 Other:            APIs, JSON, Local Storage, Stripe Integration
+
 
