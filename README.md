@@ -5,7 +5,7 @@
   🎓 3rd Year Computer Science Student at Ahram Canadian University<br>
   💻 Passionate about crafting responsive and engaging web applications<br>
   🏆 Intern of the Month @ Uneeq Interns (June 2025)<br>
-  🌱 Currently improving my skills in React, APIs & UI/UX<br>
+  🌱 Currently improving my skills in React & APIs<br>
 </p>
 
 ---
