@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nancy Khalid Ali</h1>
-<h3 align="center">Front-End Developer | CS Student | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | CS Student | Tech Enthusiast</h3>
 
 <p align="center">
   🎓 4th Year Computer Science Student at Ahram Canadian University<br>
